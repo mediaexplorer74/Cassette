@@ -1,6 +1,7 @@
 # Cassette
 
-This is my try to partially reconstruct the "Xamarin" psolution from... 2011 year :)
+This is my try to partially reconstruct the "Xamarin" (MonoDevelop) solution from... 2013 year! :)
+
 My task is switch the engine from MonoUI to modern Xamarin(forms) ;)
 
 ## [A][B]out
