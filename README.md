@@ -7,7 +7,7 @@ My task is switch the engine from MonoUI to modern Xamarin(forms) ;)
 
 About original [A]: A cute little music player built with Xamarin.
 
-About my fork [B]: A remake of old sweet Xamarin father (MonoUI). Draft only (iOS)
+About my fork [B]: A remake of old sweet Cassette made on Xamarin father (MonoUI). 
 
 
 ## Screenshots / Mockup
